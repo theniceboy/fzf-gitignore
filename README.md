@@ -25,7 +25,7 @@ This plugin was inspired by [helm-gitignore](https://github.com/jupl/helm-gitign
 
     ```vim
     Plug 'junegunn/fzf', {'do': {-> fzf#install()}}
-    Plug 'fszymanski/fzf-gitignore', {'do': ':UpdateRemotePlugins'}
+    Plug 'theniceboy/fzf-gitignore', {'do': ':UpdateRemotePlugins'}
     ```
 
 ## Documentation
