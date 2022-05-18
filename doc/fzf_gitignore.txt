@@ -62,7 +62,7 @@ BUGS                                                      *fzf-gitignore-bugs*
 
 If you find a bug please create an issue on GitHub.
 
-https://github.com/fszymanski/fzf-gitignore/issues
+https://github.com/theniceboy/fzf-gitignore/issues
 
 ==============================================================================
 CONTRIBUTING                                      *fzf-gitignore-contributing*
@@ -70,7 +70,7 @@ CONTRIBUTING                                      *fzf-gitignore-contributing*
 Think you can make this plugin better? Awesome. Fork it on GitHub and create
 a pull request.
 
-https://github.com/fszymanski/fzf-gitignore
+https://github.com/theniceboy/fzf-gitignore
 
 ==============================================================================
 
